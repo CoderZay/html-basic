@@ -11,4 +11,4 @@ https://twitter.com/CoderZay
 ### Este es mi perfil de youtube
 https://www.youtube.com/channel/UC8rO5eVxOhN0LFzmnf4S2lQ
 
-html-basic 
+![miniatura](https://user-images.githubusercontent.com/66572219/84323370-e9a7ee00-ab33-11ea-83e0-43e629dc0732.png)
